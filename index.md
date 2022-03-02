@@ -11,7 +11,7 @@ https://github.com/DigitalPhonetics/IMS-Toucan
 
 ## Audio Samples
 
-English Speaker
+1. English Speaker
 
     <table style='width: 100%;'>
         <tr>
@@ -42,7 +42,7 @@ English Speaker
         </tr>
     </table>
     
-German Speaker
+2. German Speaker
 
     <table style='width: 100%;'>
         <tr>
@@ -73,7 +73,7 @@ German Speaker
         </tr>
     </table>
     
-Dutch Speaker
+3. Dutch Speaker
 
     <table style='width: 100%;'>
         <tr>
@@ -104,7 +104,7 @@ Dutch Speaker
         </tr>
     </table>
     
-Finnish Speaker
+4. Finnish Speaker
 
     <table style='width: 100%;'>
         <tr>
@@ -135,7 +135,7 @@ Finnish Speaker
         </tr>
     </table>
     
-French Speaker
+5. French Speaker
 
     <table style='width: 100%;'>
         <tr>
@@ -166,7 +166,7 @@ French Speaker
         </tr>
     </table>
     
-Greek Speaker
+6. Greek Speaker
 
     <table style='width: 100%;'>
         <tr>
@@ -197,7 +197,7 @@ Greek Speaker
         </tr>
     </table>
     
-Hungarian Speaker
+7. Hungarian Speaker
 
     <table style='width: 100%;'>
         <tr>
@@ -228,7 +228,7 @@ Hungarian Speaker
         </tr>
     </table>
     
-Italian Speaker
+8. Italian Speaker
 
     <table style='width: 100%;'>
         <tr>
@@ -259,7 +259,7 @@ Italian Speaker
         </tr>
     </table>
     
-Polish Speaker
+9. Polish Speaker
 
     <table style='width: 100%;'>
         <tr>
@@ -290,7 +290,7 @@ Polish Speaker
         </tr>
     </table>
     
-Portuguese Speaker
+10. Portuguese Speaker
 
     <table style='width: 100%;'>
         <tr>
@@ -321,7 +321,7 @@ Portuguese Speaker
         </tr>
     </table>
     
-Russian Speaker
+11. Russian Speaker
 
     <table style='width: 100%;'>
         <tr>
@@ -352,7 +352,7 @@ Russian Speaker
         </tr>
     </table>
     
-Spanish Speaker
+12. Spanish Speaker
 
     <table style='width: 100%;'>
         <tr>
