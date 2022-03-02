@@ -1,4 +1,4 @@
-# Multi Language and Multi Speaker Text-to-Speech
+# Language and Speaker aware TTS
 
 <img align="center" src="resources/toucan.png" style="  display: block;
   margin-left: auto;
