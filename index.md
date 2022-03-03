@@ -1,5 +1,3 @@
-# Language and Speaker aware TTS
-
 <img align="center" src="resources/toucan.png" style="  display: block;
   margin-left: auto;
   margin-right: auto;
