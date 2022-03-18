@@ -5,7 +5,11 @@
 
 ## Official Code
 
-https://github.com/DigitalPhonetics/IMS-Toucan
+[https://github.com/DigitalPhonetics/IMS-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan)
+
+## Interactive Demo
+
+[Hosted on Huggingface🤗 Spaces](https://huggingface.co/spaces/Flux9665/IMS-Toucan)
 
 ## Audio Samples
 
