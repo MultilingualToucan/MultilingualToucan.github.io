@@ -13,6 +13,8 @@
 
 ## Audio Samples
 
+For these samples, we adjust the language embedding such that each speaker speaks with an accent that matches them. Speaking without an accent is also possible by choosing a language embedding that matches the text rather than the speaker.
+
 1. **English Speaker**
 
     <table style='width: 100%;'>
